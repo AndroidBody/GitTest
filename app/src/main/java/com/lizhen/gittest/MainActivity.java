@@ -12,9 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //在新的分支进行操作和修改
-
-        //这是第一次提交
-
-        //这是第二次提交
     }
 }
